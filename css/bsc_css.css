@@ -1,0 +1,17 @@
+label { display: inline-block; width: 210px; text-align: right; }
+.bsc_label {
+  font-family: "Open Sans", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  color: #333;
+  margin-left: -4em;
+  width: 15%;
+  display: inline-block;
+
+}
+.bsc_form_row {
+  align-items: center;
+  justify-content: flex-start;
+  
+  margin-bottom: 0.5em;
+}
